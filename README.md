@@ -1,10 +1,11 @@
 # Crud-With-OOP-And-Mysqli
 Create Read And Delete With OOP And Mysqli
-Version
+
+##Version
 
 master
 
-Installation
+##Installation
 
 Clone this repository to your htdocs folder-
 
