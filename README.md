@@ -4,13 +4,9 @@ Version
 
 master
 
-Live Demo
-
-http://reunion.ohidul.com/en
-
 Installation
 
 Clone this repository to your htdocs folder-
 
-$ git clone https://github.com/ohid/profile-picture-generator.git profile-pic-generator
+$ git clone https://github.com/Shiam-Cse-Ru/Crud-With-OOP-And-Mysqli.git Crud-With-OOP-And-Mysqli
 Now you are all setup to go.
